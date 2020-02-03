@@ -16,8 +16,8 @@ My Natural Language Processing project analyzing the lyrics of The Weeknd!
 4) Word Clouds
 5) Lyrical Repetitiveness
 
-
-![Trilogy WordCloud](Images/TrilogyWC.png)
+### Trilogy Word Cloud
+(Images/TrilogyWC.png)
 
 ``` 
 here is a code block. HYpe
